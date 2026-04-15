@@ -159,7 +159,7 @@ Label Studio Pro eliminates the need for expensive enterprise label design softw
 
 ```bash
 # Clone the repository
-git clone https://github.com/moneraldabai-ui/label-studio-pro.git
+git clone https://github.com/moneraldabai-ui/Professional-Label-Design-Print.git
 
 # Navigate to project directory
 cd label-studio-pro
@@ -181,7 +181,7 @@ npm run dev
 npm run dev
 ```
 
-Then open [http://localhost:5173](http://localhost:5173) in your browser.
+Then open [http://localhost:3001](http://localhost:3001) in your browser.
 
 ### With System Tray Launcher
 
