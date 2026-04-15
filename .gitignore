@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+release/
+
+# Local files
+.local
+*.local
+
+# Environment files
+.env
+.env.*
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+*.suo
+*.user
+.vscode/settings.json
+.idea/
+
+# Testing
+coverage/
+
+# Cache
+.cache/
+
+# Misc
+.server.pid
+Summary.txt
+000000000000.txt
+
+# Electron (not used - web app only)
+electron/
+generate-ico.cjs

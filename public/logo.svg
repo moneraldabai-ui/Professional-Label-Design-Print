@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="15" fill="#2563eb"/>
+
+  <!-- Label shape -->
+  <rect x="6" y="10" width="20" height="12" rx="2" fill="white"/>
+
+  <!-- Barcode lines -->
+  <rect x="9" y="13" width="1.5" height="6" fill="#2563eb"/>
+  <rect x="11.5" y="13" width="1" height="6" fill="#2563eb"/>
+  <rect x="13.5" y="13" width="2" height="6" fill="#2563eb"/>
+  <rect x="16.5" y="13" width="1" height="6" fill="#2563eb"/>
+  <rect x="18.5" y="13" width="1.5" height="6" fill="#2563eb"/>
+  <rect x="21" y="13" width="2" height="6" fill="#2563eb"/>
+</svg>
